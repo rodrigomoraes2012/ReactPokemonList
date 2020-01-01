@@ -26,7 +26,6 @@ class App extends Component{
 			pokedex: [],
 			searchField: '',
 		}
-
 	}
 
 	componentDidMount(){
