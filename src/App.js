@@ -8,7 +8,7 @@ class App extends Component{
 	constructor(){
 		super()
 		this.state = {
-			string: 'Teste 12345',
+			string: 'Oi, eu sou o Goku!',
 			monsters: [
 				{
 					name: 'Frankenstein',
